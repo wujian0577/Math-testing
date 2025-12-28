@@ -1,0 +1,5 @@
+{
+  "name": "MathVenn: Visualizing Set Logic",
+  "description": "An interactive educational tool designed to help primary school students visualize and solve math problems using the Principle of Inclusion-Exclusion and Venn diagrams.",
+  "requestFramePermissions": []
+}
